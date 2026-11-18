@@ -30,7 +30,7 @@ export default function Hero() {
           Ver proyectos
         </a>
         <a
-          href="/CV_Ernesto_Camilo_Fagundez.pdf"
+          href="/CVErnesto_Camilo_Fagundez.pdf"
           download
           className="rounded-xl border border-white/20 px-6 py-3 font-medium text-white transition hover:border-emerald-400 hover:text-emerald-400"
         >

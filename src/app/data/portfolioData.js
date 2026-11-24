@@ -171,6 +171,8 @@ export const PROJECTS = [
     description:
       "Plataforma web para administrar niños, familias, asistencia, grupos y reportes de un centro de cuidado infantil. Estuve a cargo de la seguridad y gestión de usuarios, el módulo de asistencia, el panel de familias y la configuración de grupos, además de colaborar en perfiles, notificaciones e historiales.",
     tags: ["Java", "Spring Boot", "Angular", "PostgreSQL", "JWT", "Cloudinary"],
+    backendUrl:"https://github.com/Dekyim/SistemaCentroCrecer-Backend.git",
+    frontendUrl:"https://github.com/camilo0o/SistemaCentroCrecer-Frontend.git",
   },
   {
     name: "LitoralHogar",
@@ -179,6 +181,7 @@ export const PROJECTS = [
     description:
       "Sitio para publicar y buscar propiedades con mapa interactivo. Desarrollé el detalle de propiedad, componentes reutilizables de formularios, el login con autenticación de usuarios y los criterios visuales del sitio.",
     tags: ["PHP", "Laravel", "Vue 3", "Tailwind CSS", "Leaflet"],
+    repoUrl: "https://github.com/Inshake/LitoralHogar.git",
   },
   {
     name: "QuizzIT",
@@ -187,6 +190,7 @@ export const PROJECTS = [
     description:
       "App móvil donde los usuarios juegan partidas de preguntas por categoría y dificultad. Desarrollé las pantallas de historial y detalle de partida, y una barra de tiempo visual por pregunta según la categoría.",
     tags: ["React Native", "Expo", "Supabase"],
+    repoUrl: "https://github.com/JuanSiecola/QuizzIT.git",
   },
   {
     name: "Papuchat",
@@ -195,6 +199,8 @@ export const PROJECTS = [
     description:
       "Laboratorio individual que replica la funcionalidad básica de un chat consumiendo una API REST: envío de mensajes e imágenes, indicador de escritura en tiempo real y persistencia local de conversaciones, sin frameworks.",
     tags: ["HTML", "CSS", "JavaScript"],
+    repoUrl:"https://github.com/camilo0o/Papuchat.git",
+    demoUrl:"https://camilo0o.github.io/Papuchat/",
   },
   {
     name: "Sistema de reservas de canchas de pádel",

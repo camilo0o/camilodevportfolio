@@ -1,3 +1,5 @@
+import { CONTACT } from "../data/portfolioData";
+
 export default function Hero() {
   return (
     <section
@@ -30,7 +32,7 @@ export default function Hero() {
           Ver proyectos
         </a>
         <a
-          href="/CVErnesto_Camilo_Fagundez.pdf"
+          href={CONTACT.cv}
           download
           className="rounded-xl border border-white/20 px-6 py-3 font-medium text-white transition hover:border-emerald-400 hover:text-emerald-400"
         >
